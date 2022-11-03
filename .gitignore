@@ -1,0 +1,8 @@
+*-checkpoint.ipynb
+*.pyc
+.DS_Store
+*.pt
+*.csv
+mlruns/*
+processed_data/*
+scratch*
