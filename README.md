@@ -8,7 +8,7 @@ This exploration is contained in the EDA notebook.
 
 2.	Could you please design and implement a Machine Learning model to predict the Ratings Review of the restaurants? 
 
-For this task, we trained two models: A *Multinomial Naive Bayes Classifier* using scikit-learn, and a BERT model fine-tuned to the data. These are found in their respective folders. Experiments were recorded using MLFlow. 
+For this task, we trained two models: A *Multinomial Naive Bayes Classifier* using scikit-learn, and a BERT model fine-tuned to the data. These are found in their respective folders. Experiments and metrics were recorded and tracked using MLFlow. 
 
 3.	Please expose the model inference built from step 2 by implementing a RESTful API. The API takes the review_full as request, and returns the predicted rating of a restaurant.
 
